@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.syard.cn/sitemap.xml
